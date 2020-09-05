@@ -3,9 +3,10 @@
 
 
 #### Description 
-+ It is a To-Do list that works on your web browser!.
++ It is a To-Do list that works on your **web browser!**.
++ It uses **HTML, Css and Javascript**.
 + You could add a task on your to-dos.
-+ After completing your task you could strike through that task by simpling clicking on it.
++ After completing your task you could **~~strikethrough~~** that task by simpling clicking on it.
 + You may also delete that task by clicking on the bin.
 
 How to use it?
