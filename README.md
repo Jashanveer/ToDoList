@@ -1,4 +1,5 @@
-# ToDoList # *Simple way to store your day to day task.*
+# ToDoList # 
+*Simple way to store your day to day task.*
 
 
 What is it about?
