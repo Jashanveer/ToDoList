@@ -1,4 +1,5 @@
-Welcome to ToDoList. Simple way to store your day to day task.
+# ToDoList # *Simple way to store your day to day task.*
+
 
 What is it about?
 It is a To-Do list that works on your web browser.
