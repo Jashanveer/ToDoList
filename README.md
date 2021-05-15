@@ -13,7 +13,7 @@
 #### How to use it?
 + First of all you need to <a href = "https://github.com/Jashanveer/ToDoList/archive/master.zip">download</a> the project.
 + After downloading extract all files in same directory.
-+ Simply click on **ToDo.html**.
++ Simply click on the **ToDo.html**.
 + Add a task and click enter.
 + The task will be added.
 + Now add more tasks.
